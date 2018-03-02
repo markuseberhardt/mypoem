@@ -4,6 +4,6 @@ i can´t code,
 neither can you.
 
 errors are red,
-normal text is blue,
+outputs are blue,
 "unexpected symbol"
 on line 42
