@@ -7,3 +7,6 @@ errors are red,
 outputs are blue,
 "unexpected symbol"
 on line 42
+
+is it a bird?
+is it superman?
